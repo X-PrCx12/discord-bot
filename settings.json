@@ -9,7 +9,7 @@
     "spotifyClientId": "SPOTIFY_CLIENT_ID",
     "spotifyClientSecret": "SPOTIFY_CLIENT_SECRET",
     "ttsApiKey": "TTS_API_KEY",
-    "youtubeApiKey": "",
+    "youtubeApiKey": "AIzaSyBKFKWhxrEvktedFkeAbOoJ1jRmMdYRLQw",
     "mongodbUrl": "",
     "mongodbUser": "",
     "mongodbPassword": "",
