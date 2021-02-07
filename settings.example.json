@@ -1,5 +1,5 @@
 {
-    "botPrefix": "!",
+    "botPrefix": "x!",
     "botTalk": false,
     "bitRate": 96000,
     "defVolume": 100,
@@ -9,7 +9,7 @@
     "spotifyClientId": "SPOTIFY_CLIENT_ID",
     "spotifyClientSecret": "SPOTIFY_CLIENT_SECRET",
     "ttsApiKey": "TTS_API_KEY",
-    "youtubeApiKey": "YOUTUBE_API_KEY",
+    "youtubeApiKey": "",
     "mongodbUrl": "",
     "mongodbUser": "",
     "mongodbPassword": "",
